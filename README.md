@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitesh235&label=Profile%20views&color=0e75b6&style=plastic" alt="hitesh235" /> </p>
 
-- 🌱 I’m currently learning **React and JavaScript**
+- 🌱 Currently focused on **DSA in JAVA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
